@@ -77,6 +77,10 @@
      },
     "rbxassetid://7354275878": {
         "Nome": "MORTE",
-        "Substituto": "https://github.com/Sc-Rhyan57/RandomStuff/raw/refs/heads/main/MSAUDIOS/MORTE-GTAV.mp3"   
+        "Substituto": "https://github.com/Sc-Rhyan57/RandomStuff/raw/refs/heads/main/MSAUDIOS/MORTE-GTAV.mp3"
+     },
+    "rbxassetid://3338693601": {
+        "Nome": "JEFF",
+        "Substituto": "https://github.com/Sc-Rhyan57/RandomStuff/raw/refs/heads/main/MSAUDIOS/PAGAMENTO-APPLE.mp3"   
     }
 }
