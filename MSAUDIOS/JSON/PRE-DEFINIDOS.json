@@ -81,6 +81,10 @@
      },
     "rbxassetid://3338693601": {
         "Nome": "JEFF",
-        "Substituto": "https://github.com/Sc-Rhyan57/RandomStuff/raw/refs/heads/main/MSAUDIOS/PAGAMENTO-APPLE.mp3"   
+        "Substituto": "https://github.com/Sc-Rhyan57/RandomStuff/raw/refs/heads/main/MSAUDIOS/PAGAMENTO-APPLE.mp3"
+     },
+    "rbxassetid://10460221938": {
+        "Nome": "GUIDING LIGHT",
+        "Substituto": "https://github.com/Sc-Rhyan57/RandomStuff/raw/refs/heads/main/MSAUDIOS/CEU.mp3"   
     }
 }
