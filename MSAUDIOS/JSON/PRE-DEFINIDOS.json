@@ -70,5 +70,9 @@
     "rbxassetid://133527017562793": {
         "Nome": "DANO-MINECRAFT",
         "Substituto": "https://github.com/Sc-Rhyan57/RandomStuff/raw/refs/heads/main/MSAUDIOS/DANO-MINECRAFT.mp3"
+    },
+    "rbxassetid://12122196180": {
+        "Nome": "SOM DO RUSH",
+        "Substituto": "https://www.myinstants.com/media/sounds/gegagedigedagedago-full.mp3"
     }
 }
